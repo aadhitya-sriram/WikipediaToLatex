@@ -62,7 +62,10 @@ A small set of Python scripts and a shell helper to fetch Wikipedia articles, co
    ```bash
    pandoc --version
    ```
-
+   And then run,
+   ```python
+   pypandoc.download_pandoc()
+   ```
 ---
 
 ## Configuration
