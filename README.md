@@ -1,6 +1,6 @@
-# Wikipedia to LaTeX Pipeline
+# Wikipedia to LaTeX format
 
-A small set of Python scripts and a shell helper to fetch Wikipedia articles, convert their wikitext into clean LaTeX, and download associated images.
+A small set of Python scripts and a shell helper to fetch Wikipedia articles, convert their wikitext into clean LaTeX, and download associated images. This was specifically developed to convert with full-math text intact in .tex format
 
 ---
 
